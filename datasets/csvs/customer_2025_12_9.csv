@@ -1,0 +1,11 @@
+customer_id,first_name,last_name,email,city,updated_at
+101,Isha,Shrestha,isha.shrestha@example.com,Kathmandu,2024-01-20 10:15:00
+102,Sonu,KC,sonu.kc@example.com,Lalitpur,2024-01-21 09:12:00
+103,Bhuwan,Adhikari,bhuwan.adhikari@example.com,Morang,2024-01-22 11:25:00
+104,Pragya,Bhattarai,pragya.bhattarai@example.com,Biratnagar,2024-01-23 13:45:00
+105,Norgen,Moktan,norgen.moktan@example.com,Chitwan,2024-01-24 15:00:00
+106,Anisha,Thapa,anisha.thapa@example.com,Dharan,2024-01-25 12:10:00
+107,Bibek,Lama,bibek.lama@example.com,Hetauda,2024-01-26 14:20:00
+108,Pooja,Maharjan,pooja.maharjan@example.com,Bhaktapur,2024-01-27 16:30:00
+109,Nirajan,Rai,nirajan.rai@example.com,Janakpur,2024-01-28 09:50:00
+110,Smriti,Karki,smriti.karki@example.com,Butwal,2024-01-29 08:40:00

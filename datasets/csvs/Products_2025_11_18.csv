@@ -1,0 +1,21 @@
+product_id,name,category,price,updated_at
+1001,LED TV 42 Inch,Electronics,420,2024-02-01 10:00:00
+1002,Washing Machine 7kg,Home Appliances,390,2024-02-02 11:00:00
+1003,Laptop i5 11th Gen,Electronics,720,2024-02-03 12:00:00
+1004,Gas Stove 2 Burner,Kitchen,48,2024-02-04 13:00:00
+1005,Rice Cooker 1.8L,Kitchen,30,2024-02-05 14:00:00
+1006,Mobile Phone A52,Electronics,310,2024-02-06 15:00:00
+1007,Bluetooth Speaker,Electronics,22,2024-02-07 16:00:00
+1008,Office Chair Deluxe,Furniture,82,2024-02-08 17:00:00
+1009,Study Table,Furniture,70,2024-02-09 18:00:00
+1010,Air Fryer 4L,Kitchen,95,2024-02-10 19:00:00
+1011,Electric Kettle,Kitchen,14,2024-02-11 10:00:00
+1012,Shoes Sports Men's,Fashion,26,2024-02-12 11:00:00
+1013,Women's Handbag,Fashion,34,2024-02-13 12:00:00
+1014,Smartwatch Pro,Electronics,58,2024-02-14 13:00:00
+1015,Keyboard Wireless,Electronics,11,2024-02-15 14:00:00
+1016,Mouse Wireless,Electronics,7,2024-02-16 15:00:00
+1017,Table Lamp LED,Home Decor,16,2024-02-17 16:00:00
+1018,Bed Sheets Set,Furniture,20,2024-02-18 17:00:00
+1019,Water Bottle Steel,Accessories,6,2024-02-19 18:00:00
+1020,Backpack Travel,Fashion,33,2024-02-20 19:00:00
